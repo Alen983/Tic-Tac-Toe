@@ -7,7 +7,7 @@ This is a simple Game of Tic-Tac-Toe developed in C++.
 
 
 ```javascript
-const thai = {
+const NewRepo = {
   Game: "Tic-Tac-Toe",
   code: [C++],
   tools: [VSCode],
