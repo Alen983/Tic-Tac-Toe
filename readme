@@ -1,0 +1,5 @@
+File guards https://www.youtube.com/watch?v=RU5JUHAiR18
+
+complie g++ main.cpp def.cpp -o <anyname>
+
+
