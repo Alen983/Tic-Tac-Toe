@@ -1,3 +1,7 @@
+Tic-Tac-Toe Game
+
+> Love is a game of tic-tac-toe,constantly waiting for the next x or o. -Lang Leav
+
 File guards https://www.youtube.com/watch?v=RU5JUHAiR18
 
 complie g++ main.cpp def.cpp -o <anyname>
